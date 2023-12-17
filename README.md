@@ -2,16 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+Este es un ejemplo de uso de la api de IA de Google llamada Gemini. Hacemos uso de la biblioteca dio para hacer peticiones a una API que nos contesta los mensajes enviados.
 
-This project is a starting point for a Flutter application.
+DEMO
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Imagen1](image.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_gemini_chat
+
+![Imagen2](image-1.png)
